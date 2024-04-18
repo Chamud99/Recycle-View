@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Recycle view</string>
+    <string-array name="info_data_array">
+        <item>Mukunuwenna is the commercially grown and most popular leafy vegetable type in the market. This is popular due to its nutritional, medicinal and characteristic flavor. The crop is rich in vitamins, calcium and iron</item>
+        <item>Coccinia grandis(kowakka), the ivy gourd, also known as scarlet gourd, tindora and kowai fruit, is a tropical vine. It grows primarily in tropical climates and is commonly found in the Indian states, where it forms a part of the local cuisine.</item>
+        <item>Thebu leaves Thebu (Costus speciosus) leaves are consumed as mallum, sambol in Sri Lankan contest. It has similar taste like gotukola. Costus speciosus is an important source of diosgenin. The alkaloids of this plant have anticholinesterase acivity both In vivo and in vitro. It shown significant hypoglycemic effects.</item>
+        <item>Solanum nigrum naturally occurs in Africa and is used as food as well as medicinal plant in Cameroon to treat pneumonia, aching teeth, stomach ache, tonsillitis, wing worms, pain, inflammation and fever, tumor, inflammation, and also as hepaprotective, diuretic, antipyretic [77].</item>
+        <item>Hathavariya is also known as Asparagus racemosus. It’s a member of the asparagus family. It’s also an adaptogenic herb. Adaptogenic herbs are said to help your body cope with physical and emotional stress.Shatavari is considered a general health tonic to improve vitality, making it a staple in ayurvedic medicine.</item>
+        <item>Centella asiatica, is revered in traditional medicine for its cognitive-enhancing and wound-healing properties, used to improve memory, reduce anxiety, and promote skin regeneration.</item>
+        <item>Gymnema sylvestre(masbadda) is a large perennial woody vine that grows mainly in Asia and few other parts of the world. It is a much-branched climber with elongated-oval shaped leaves and small yellow flowers growing up to 600 m in height and found mainly in the dry zone forests of Sri Lanka.  This rare medicinal plant that abounds with natural goodness is best known for its anti-diabetic activity as it prevents absorption of glucose in blood thus reducing blood sugar levels; which in turn contributes towards favourable insulin levels.</item>
+        <item> The humble Amaranth(Thampala) leaves are witnessing a resurgence in their popularity after research has found them to be packed with essential vitamins and nutrients. They are also rich in potassium and fibre, thus can help reduce the risk of heart disease. Hence, they are considered  heart-healthy food.</item>
+    </string-array>
+
+    <string-array name="b_name_array">
+        <item>Mukunuwenna</item>
+        <item>Kowakka</item>
+        <item>Thebu</item>
+        <item>Kalukamberiya</item>
+        <item>Hathavariya</item>
+        <item>Gotu kola</item>
+        <item>Masbadda</item>
+        <item>Thampala</item>
+    </string-array>
+
+
+    <string name="plant1">plant1</string>
+    <string name="plant2">plant2</string>
+    <string name="plant3">plant3</string>
+    <string name="plant4">plant4</string>
+    <string name="plant5">plant5</string>
+    <string name="plant6">plant5</string>
+    <string name="plant7">plant5</string>
+    <string name="plant8">plant5</string>
+
+
+
+
+
+
+
+
+
+</resources>
